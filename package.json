@@ -1,0 +1,29 @@
+{
+  "name": "magic-eye-game",
+  "version": "1.0.0",
+  "description": "magic eye rendered game",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisehackermonkey/magic-eye-game.git"
+  },
+  "keywords": [
+    "autosteriogram"
+  ],
+  "author": "wisemonkey <oranbusiness@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisehackermonkey/magic-eye-game/issues"
+  },
+  "homepage": "https://github.com/wisehackermonkey/magic-eye-game#readme",
+  "dependencies": {
+    "magic-eye": "^0.1.0"
+  }
+}
