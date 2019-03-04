@@ -2,7 +2,7 @@
   "name": "magic-eye-game",
   "version": "1.0.0",
   "description": "magic eye rendered game",
-  "main": "app.js",
+  "main": "sketch.js",
   "directories": {
     "lib": "lib",
     "test": "test"
